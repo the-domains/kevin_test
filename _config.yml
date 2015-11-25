@@ -1,0 +1,28 @@
+name: kevin_test
+favicon: null
+layout_spectrum: 0.8844569819048047
+typography_spectrum: 0.7561748381704092
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.6126629076898098
+  lightness: 0.8611913262866437
+  saturation: 0.2631885604932904
+  rhythmicContrast: 0.5863296075258404
+purpose: []
